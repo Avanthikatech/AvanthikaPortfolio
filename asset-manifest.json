@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/AvanthikaPortfolio/static/css/main.0ef4c89f.css",
-    "main.js": "/AvanthikaPortfolio/static/js/main.c9c0a0cc.js",
+    "main.js": "/AvanthikaPortfolio/static/js/main.569fa9c0.js",
     "static/media/hero.png": "/AvanthikaPortfolio/static/media/hero.6542b5dd19fcfb47bca7.png",
     "static/media/about.png": "/AvanthikaPortfolio/static/media/about.6db4fb8e648214138b17.png",
     "static/media/resume.jpg": "/AvanthikaPortfolio/static/media/resume.dd6c4022f3ea8631e77c.jpg",
     "static/media/portfolio.jpg": "/AvanthikaPortfolio/static/media/portfolio.a51b6eca3317af03c403.jpg",
     "index.html": "/AvanthikaPortfolio/index.html",
     "main.0ef4c89f.css.map": "/AvanthikaPortfolio/static/css/main.0ef4c89f.css.map",
-    "main.c9c0a0cc.js.map": "/AvanthikaPortfolio/static/js/main.c9c0a0cc.js.map"
+    "main.569fa9c0.js.map": "/AvanthikaPortfolio/static/js/main.569fa9c0.js.map"
   },
   "entrypoints": [
     "static/css/main.0ef4c89f.css",
-    "static/js/main.c9c0a0cc.js"
+    "static/js/main.569fa9c0.js"
   ]
 }
