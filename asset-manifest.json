@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AvanthikaPortfolio/static/css/main.0ef4c89f.css",
+    "main.js": "/AvanthikaPortfolio/static/js/main.ced9ae0e.js",
+    "static/media/hero.png": "/AvanthikaPortfolio/static/media/hero.6542b5dd19fcfb47bca7.png",
+    "static/media/food-ecommerce.jpg": "/AvanthikaPortfolio/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "static/media/about.png": "/AvanthikaPortfolio/static/media/about.6db4fb8e648214138b17.png",
+    "static/media/website-blog.jpg": "/AvanthikaPortfolio/static/media/website-blog.34169abf2d417858685b.jpg",
+    "static/media/resume.jpg": "/AvanthikaPortfolio/static/media/resume.dd6c4022f3ea8631e77c.jpg",
+    "static/media/portfolio.jpg": "/AvanthikaPortfolio/static/media/portfolio.a51b6eca3317af03c403.jpg",
+    "index.html": "/AvanthikaPortfolio/index.html",
+    "main.0ef4c89f.css.map": "/AvanthikaPortfolio/static/css/main.0ef4c89f.css.map",
+    "main.ced9ae0e.js.map": "/AvanthikaPortfolio/static/js/main.ced9ae0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef4c89f.css",
+    "static/js/main.ced9ae0e.js"
+  ]
+}
