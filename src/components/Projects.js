@@ -1,7 +1,4 @@
 import websiteImg1 from '../assets/portfolio.jpg';
-import websiteImg2 from '../assets/food-ecommerce.jpg';
-import websiteImg3 from '../assets/website-blog.jpg';
-
 export default function Projects() {
 
     const config = {
@@ -10,17 +7,7 @@ export default function Projects() {
                 image: websiteImg1,
                 description: 'A Portfolio website using React and Tailwind CSS.',
                 link: 'https://github.com/jvlcode/jvlcart'
-            },
-            {
-                image: websiteImg2,
-                description: 'Food Ecommerce website like Swiggy, Built with Angular & .Net',
-                link: 'https://github.com/jvlcode/food'
-            },
-            {
-                image: websiteImg3,
-                description: 'Basic Blog Website . Built with Next JS and MongoDB',
-                link: 'https://github.com/jvlcode/blog'
-            }
+            }         
         ]
     }
 
