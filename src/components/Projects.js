@@ -6,7 +6,7 @@ export default function Projects() {
             {
                 image: websiteImg1,
                 description: 'A Portfolio website using React and Tailwind CSS.',
-                link: 'https://github.com/jvlcode/jvlcart'
+                link: 'https://github.com/Avanthikatech/AvanthikaPortfolio.git'
             }         
         ]
     }
