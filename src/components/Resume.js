@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume () {
     const config = {
-        link: 'https://sapphire-dawna-83.tiiny.site/'
+        link: 'https://avanthika-resume.tiiny.site/'
 
     }
 
