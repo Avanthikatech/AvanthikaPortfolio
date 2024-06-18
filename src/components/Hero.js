@@ -5,7 +5,6 @@ export default function Hero() {
     const config  = {
         subtitle: 'Im a Front-end developer and Designer',
         social: {
-            twitter: 'https://twitter.com/jvlcode',
             github: 'https://github.com/Avanthikatech',
             linkedin: 'https://www.linkedin.com/in/abi-avanthika/'
         }
@@ -19,7 +18,7 @@ export default function Hero() {
             </h1>
             <div className='flex py-10'>
                 {/* <a href={config.social.twitter} className='pr-5 hover:text-white'><AiOutlineTwitter size={40} /></a> */}
-                <a href={config.social.facebook} className='pr-5 hover:text-white'><AiOutlineGithub size={40}/></a>
+                <a href={config.social.github} className='pr-5 hover:text-white'><AiOutlineGithub size={40}/></a>
                 <a href={config.social.linkedin} className='hover:text-white'><AiOutlineLinkedin size={40}/></a>
             </div>
        </div>
