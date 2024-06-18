@@ -1,4 +1,5 @@
 import websiteImg1 from '../assets/portfolio.jpg';
+import websiteImg2 from '../assets/phishing.jpg';
 export default function Projects() {
 
     const config = {
@@ -7,7 +8,12 @@ export default function Projects() {
                 image: websiteImg1,
                 description: 'A Portfolio website using React and Tailwind CSS.',
                 link: 'https://github.com/Avanthikatech/AvanthikaPortfolio.git'
-            }         
+            },
+            {
+                image: websiteImg2,
+                description: 'A Phishing email filtering Machine Learning Project.',
+                link: 'https://github.com/Avanthikatech/NLP-Spam-Detection.git'
+            }
         ]
     }
 
@@ -15,7 +21,7 @@ export default function Projects() {
         <div className="w-full">
             <div className="flex flex-col px-10 py-5">
                 <h1 className="text-4xl border-b-4 border-secondary mb-5 w-[150px] font-bold">Projects</h1>
-                <p>These are some of my best projects. I have built these with React. Check them out.</p>
+                <p>These are some of my best projects. Check them out.</p>
             </div>
         </div>
         <div className="w-full">
